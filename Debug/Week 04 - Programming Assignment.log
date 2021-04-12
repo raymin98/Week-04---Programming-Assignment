@@ -1,0 +1,4 @@
+﻿  Week 04 - Programming Assignment.cpp
+C:\Users\Raymin\source\repos\Week 04 - Programming Assignment\Week 04 - Programming Assignment.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Raymin\source\repos\Week 04 - Programming Assignment\Week 04 - Programming Assignment.cpp(11,9): warning C4101: 'i': unreferenced local variable
+C:\Users\Raymin\source\repos\Week 04 - Programming Assignment\Week 04 - Programming Assignment.cpp(65,12): error C3861: 'getline': identifier not found
